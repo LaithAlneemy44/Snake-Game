@@ -11,5 +11,11 @@ Then, double-click `build_and_run.bat` or run it from the terminal:
 
 ```cmd
 build_and_run.bat
+```
 
+Or
+
+```cmd
+./build_and_run.bat
+```
 
